@@ -1,0 +1,25 @@
+# Datasets & model weights (large — not tracked)
+data/
+dataset/
+datasets/
+*.pt
+*.pth
+*.h5
+*.ckpt
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
